@@ -1,3 +1,7 @@
 <?php
 
-echo 'Hello World';
+include_once "header.php";
+
+?>
+
+Hello World
